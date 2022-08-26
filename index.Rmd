@@ -1,0 +1,16 @@
+---
+title: "Coming Soon..."
+image: "pragati_logo1.png"
+links:
+  - label: Instagram 
+    url: "https://instagram.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: Facebook
+    url: "https://facebook.com/"
+  - label: Website
+    url: "https://pragati2k22.in/"
+output:
+  postcards::jolla_anim
+---
+ 
